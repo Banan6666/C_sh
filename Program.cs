@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int firstNumber = 5;
+int secondNumber = 5;
+int squer = firstNumber * firstNumber;
+if (secondNumber == squer)
+{
+    Console.WriteLine("Yes");
+}
